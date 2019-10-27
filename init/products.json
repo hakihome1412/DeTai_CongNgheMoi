@@ -1,0 +1,1179 @@
+[
+  {
+    "productID": 1,
+    "productName": "Gucci GG Jacquard Track Jacket Blue",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Gucci",
+      "details": "A defining fabric of the latest collections seen throughout ready-to-wear and accessories, GG wool is reworked into a straight-cut coat, with contrast trims and patent leather buttons to add a retro-inspired feel. The Cruise 2020 fashion show sets the stage for a contemporary aesthetic, blending streamlined shapes and distinguished materials that speak to the House's heritage.",
+      "price": 100000,
+      "images":{
+        "img1": "../public/images/aogucci1_1.jpg",
+        "img2": "../public/images/aogucci1_2.jpg",
+        "img3": "../public/images/aogucci1_3.jpg",
+        "img4": "../public/images/aogucci1_4.png"
+      },
+      "sale": 0
+    },
+    "productDayCreate" : {
+      "day": 10,
+      "month": 5,
+      "year": 2018
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 2,
+    "productName": "T-shirt with Gucci Blade print",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Gucci",
+      "details": "Designed with an oversize fit, this piece features the white and red Gucci Blade print—a recurring motif of this season. A slightly heavier quality of cotton jersey defines the T-shirts for Spring Summer 2019, resulting in an enhanced retro appearance.;Black cotton jersey;White and red Gucci Blade print;Crewneck;Oversize fit;100% cotton;Made in Italy.",
+      "price": 100000,
+      "images":{
+        "img1": "../public/images/aogucci2_1.png",
+        "img2": "../public/images/aogucci2_2.png",
+        "img3": "../public/images/aogucci2_3.png",
+        "img4": "../public/images/aogucci2_4.png"
+      },
+      "sale": 0
+    },
+    "productDayCreate" : {
+      "day": 12,
+      "month": 5,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+ {
+  "productID": 3,
+  "productName": "Oversize paper effect bowling shirt",
+  "productInfo": {
+    "style": "áo",
+    "brand": "Gucci",
+    "details": "Debuted on the Fall Winter 2019 runway, this overshirt is presented in a paper effect woven fabric, treated for a wrinkled finish. Enriched with gold-coloured foil, a naturalistic motif animates the silhouette. The sportswear and outerwear worlds collide in this new style – the distinctive features of a bowling shirt are transformed into an exaggerated design that can be worn as a maxi shirt or a jacket, resulting in a contemporary layering game of motifs and fabrics.;Flowers, birds and Interlocking G print with gold-coloured foil on light blue wrinkled paper effect fabric;Patch pockets;Mother of pearl buttons;Oversize fit;100% polyethylene;Made in Italy.",
+    "price": 100000,
+    "images":{
+      "img1": "../public/images/aogucci3_1.jpg",
+      "img2": "../public/images/aogucci3_2.png",
+      "img3": "../public/images/aogucci3_3.jpg",
+      "img4": "../public/images/aogucci3_4.jpg"
+    },
+    "sale": 0
+  },
+  "productDayCreate" : {
+    "day": 12,
+    "month": 5,
+    "year": 2019
+  },
+  "productQuantity": 10,
+  "productStatusSale": "true"
+  },
+  {
+    "productID": 4,
+    "productName": "Fine dots wool pant",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Gucci",
+      "details": "Crafted from fine dots patterned blue wool, these pants combine sartorial excellence and an eclectic vision. The result of expert workmanship, the silhouette is specially constructed for an ideal fit and drape. A highly refined sartorial detail, the design is completed by an interior viscose silk belt. Blue and beige fine dots pattern wool. Red piping. Horn buttons. Viscose lining. Interior sartorial viscose silk belt. Elastic side details at the waistband. Front slash pockets. Button-through back besom pockets. Hook and zip closure. 16.5 leg opening, based on a size 46 (IT). 100% wool. Made in Italy.",
+      "price": 100000,
+      "images":{
+        "img1": "../public/images/quangucci1_1.jpg",
+        "img2": "../public/images/quangucci1_2.jpg",
+        "img3": "../public/images/quangucci1_3.jpg",
+        "img4": "../public/images/quangucci1_4.jpg"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 12,
+      "month": 5,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 5,
+    "productName": "Chenille jogging pant with patch",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Gucci",
+      "details": "For Spring Summer 2019, Gucci tracksuits, like this pair of loose jogging pants, are crafted in cotton chenille. A sporty play on a traditional House code, the felt Interlocking G patch decorates the back. Influences drawn from the sportswear and leisurewear worlds collide into an inherently Gucci style juxtaposing athletic inspired shapes with soft, refined fabrics. Black cotton chenille; Red, blue and yellow stripe down the sides; Interlocking G patch on the back; Elastic waistband with drawstring; Front pockets; Back button-through pocket; Elastic detail at the leg opening; Loose fit; 85% cotton and 15% polyamide; Made in Italy",
+      "price": 100000,
+      "images":{
+        "img1": "../public/images/quangucci2_1.jpg",
+        "img2": "../public/images/quangucci2_2.png",
+        "img3": "../public/images/quangucci2_3.png",
+        "img4": "../public/images/quangucci2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 6,
+    "productName": "Bees wool gabardine pant",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Gucci",
+      "details": "A gabardine pant featuring the bee-one of Gucci's most distinctive symbols, taken from the 70s archives. The preppy influence, a style that can be traced back to the Ivy League schools in the Northeast United States, continues to characterize the Gucci narrative. For Pre-Fall 2018, the concept transcends the original lifestyle and is now identified by House codes and androgynous silhouettes. Dark blue wool gabardine with red silk bees. Bordeaux piping. Elastic waistband with drawstring. Front slash pockets. Back flap pockets. 15 leg opening. 100% wool. Made in Italy. The model is 6'2 and is wearing a size 46.",
+      "price": 100000,
+      "images":{
+        "img1": "../public/images/quangucci3_1.png",
+        "img2": "../public/images/quangucci3_2.png",
+        "img3": "../public/images/quangucci3_3.png",
+        "img4": "../public/images/quangucci3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+  "productID": 7,
+  "productName": "ivory Rhyton Gucci logo leather sneaker",
+  "productInfo": {
+    "style": "giày",
+    "brand": "Gucci",
+    "details": "Designed with a thick sole and bulky construction, the sneaker has a retro influence in leather with a vintage Gucci logo inspired by prints from the 1980s. Ivory leather with Gucci vintage logo. Gucci logo tag. Rubber sole. 10mm height. Made in Italy.",
+    "price": 200000,
+    "images":{
+      "img1": "../public/images/giaygucci1_1.png",
+      "img2": "../public/images/giaygucci1_2.png",
+      "img3": "../public/images/giaygucci1_3.png",
+      "img4": "../public/images/giaygucci1_4.png"
+    },
+    "sale": 10
+  },
+  "productDayCreate" : {
+    "day": 20,
+    "month": 8,
+    "year": 2019
+  },
+  "productQuantity": 10,
+  "productStatusSale": "true"
+  } ,
+  {
+    "productID": 8,
+    "productName": "GG print Ace sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Gucci",
+      "details": "Among the distinctive accessories of the Maison, the Ace sneaker is enriched with vintage GG printed in green and red. Steeped in influences from different decades, the Gucci shoes collection revisits shapes and logos inspired by vintage sports fashion. White leather. Printed buckle with green and red GG detail. Detail in red metallic leather on the back of one of the two shoes and detail in green metallic leather on the back of the other. Rubber sole. Height 25 mm. Made in Italy.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaygucci2_1.png",
+        "img2": "../public/images/giaygucci2_2.png",
+        "img3": "../public/images/giaygucci2_3.png",
+        "img4": "../public/images/giaygucci2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 9,
+    "productName": "Leather moccasin with GG",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Gucci",
+      "details": "Crafted from bicolor black and butter leather, the men's loafer blends the classic shape with distinctive House codes. The green and red Web stripe—a nod to the House's equestrian roots—is combined with a new Horsebit hardware that incorporates the Interlocking G detail at the center. Black and white leather. Green and red Web trim. GG buckle. Leather sole. Heel height: 35 mm. Made in Italy.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaygucci3_1.png",
+        "img2": "../public/images/giaygucci3_2.png",
+        "img3": "../public/images/giaygucci3_3.png",
+        "img4": "../public/images/giaygucci3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 10,
+    "productName": "'80s Shoulder Coat",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Balenciaga",
+      "details": "Balenciaga combines Parisian refinement with a streetwear edge to create directional silhouettes that are coveted by the sartorial crowd the world over. This black cotton coat takes a new approach to tailored styles, found throughout the oversized structured shoulders and long-length sleeves.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aobalen1_1.png",
+        "img2": "../public/images/aobalen1_2.png",
+        "img3": "../public/images/aobalen1_3.png",
+        "img4": "../public/images/aobalen1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 11,
+    "productName": "S/s Normal T-shirt",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Balenciaga",
+      "details": "Famous for bold logo prints, fluorescent hues and chunky Dad trainers, Balenciaga takes a more refined approach the AW19 collection and incorporates more subtle signature style prints, paying more attention to wardrobe staples and tailored classics. Crafted from white cotton, this S/s Normal T-shirt features a round neck, short sleeves, a central printed logo and a straight fit.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aobalen2_1.png",
+        "img2": "../public/images/aobalen2_2.png",
+        "img3": "../public/images/aobalen2_3.png",
+        "img4": "../public/images/aobalen2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 12,
+    "productName": "Logo-printed ski jumper",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Balenciaga",
+      "details": "Logo-loving Balenciaga is good at making itself known. This bright red cotton ski sweater is printed with the designer name, Parisian address and signature BB logo on the front. In case you get lost on the slopes. Featuring a high standing collar, a front zip fastening, long sleeves, fitted cuffs, an oversized fit, an address print and contrasting stripes at the hem.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aobalen3_1.png",
+        "img2": "../public/images/aobalen3_2.png",
+        "img3": "../public/images/aobalen3_3.png",
+        "img4": "../public/images/aobalen3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 13,
+    "productName": "Classic cargo pants",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Balenciaga",
+      "details": "The Spanish fashion house of Balenciaga offers cutting-edge styles that balance clean, modern silhouettes with strong shapes and innovation with refinement. Crafted from dark blue cotton, these classic cargo pants feature a waistband with belt loops, side pockets, front flap pockets and a straight leg.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/quanbalen1_1.png",
+        "img2": "../public/images/quanbalen1_2.png",
+        "img3": "../public/images/quanbalen1_3.png",
+        "img4": "../public/images/quanbalen1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 14,
+    "productName": "Stripe tracksuit pants",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Balenciaga",
+      "details": "The Spanish fashion house of Balenciaga offers cutting edge styles that balance clean, modern silhouettes with strong shapes and innovation with refinement, as seen in these black Stripe tracksuit pants. Featuring an elasticated waistband, zipped side pockets, a straight leg and multicoloured striped details to the sides with Balenciaga logos.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/quanbalen2_1.png",
+        "img2": "../public/images/quanbalen2_2.png",
+        "img3": "../public/images/quanbalen2_3.png",
+        "img4": "../public/images/quanbalen2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 20,
+      "month": 8,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 15,
+    "productName": "Stripe tracksuit pants",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Balenciaga",
+      "details": "The Spanish fashion house of Balenciaga offers cutting-edge styles that balance clean, modern silhouettes with strong shapes and innovation with refinement. These fitted jeans are crafted from dark blue stretch denim with slightly distressed edges. Featuring a waistband with belt loops, a five pocket design, whiskering at the thigh, a slim fit and a distressed finish.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/quanbalen3_1.png",
+        "img2": "../public/images/quanbalen3_2.png",
+        "img3": "../public/images/quanbalen3_3.png",
+        "img4": "../public/images/quanbalen3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 16,
+    "productName": "Track.2 low-top sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Balenciaga",
+      "details": "Famous for bold logo prints, fluorescent hues and chunky Dad trainers, Balenciaga takes a more refined approach for the AW19 collection and incorporates more subtle signature style logos, paying more attention to wardrobe staples and tailored classics, as showcased by these multicoloured Track.2 low-top sneakers. Featuring a lace-up front fastening, a logo patch at the tongue, branded heel counter, a pull tab at the rear, a panelled colour block design and a chunky rubber sole.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaybalen1_1.png",
+        "img2": "../public/images/giaybalen1_2.png",
+        "img3": "../public/images/giaybalen1_3.png",
+        "img4": "../public/images/giaybalen1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 17,
+    "productName": "Triple S sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Balenciaga",
+      "details": "Take on Balenciaga's ‘Modern glamour’ with ‘neo-tailoring’ shirt jackets and matching trousers as well as sweat-dresses with exaggerated power shoulders. Carrying on the futuristic feel of oversized proportions are these grey, green and white leather Triple S sneakers. Featuring an almond toe, a lace-up front fastening, branded heel counter, a pull tab on the tongue and on the rear, a side logo stamp and a layered chunky rubber sole.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaybalen2_1.png",
+        "img2": "../public/images/giaybalen2_2.png",
+        "img3": "../public/images/giaybalen2_3.png",
+        "img4": "../public/images/giaybalen2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 18,
+    "productName": "Speed knit sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Balenciaga",
+      "details": "Playing to the extremes, Balenciaga's new season made use of contrasting black against vibrant and fluorescent hues. An iconic design in contemporary footwear, these Speed sneakers feature a sock-like upper with a ribbed hem that sits atop a chunky rubber sole. Featuring a high ankle, a knitted style and a logo to the outside.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaybalen3_1.png",
+        "img2": "../public/images/giaybalen3_2.png",
+        "img3": "../public/images/giaybalen3_3.png",
+        "img4": "../public/images/giaybalen3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 19,
+    "productName": "2008 branded slim jacket",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Chanel",
+      "details": "Fashioning sophisticated and simple designs such as the little black dress, and introducing the use of comfortable and affordable fabrics, the French house founded by Coco Chanel has been a mark in the haute couture and ready-to-wear industry for over a hundred years. Fashioned in 2008, Karl Lagerfeld introduces a slim silhouette to this Sports Line collection. The rich design was crafted from pure black wool, with the subtle detail of a branded upper arm. It also features a high standing collar, a front zip fastening, long sleeves with zipped cuffs, four topped front pockets, a straight hem and ribbed details. Please note that pre-owned items are not new and therefore might have minor imperfections.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aochanel1_1.png",
+        "img2": "../public/images/aochanel1_2.png",
+        "img3": "../public/images/aochanel1_3.png",
+        "img4": "../public/images/aochanel1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 20,
+    "productName": "Dallas jumper",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Chanel",
+      "details": "Grey cashmere-mohair-wool blend Dallas jumper from Chanel Pre-Owned featuring a ribbed crew neck, long sleeves, ribbed cuffs, a straight hem, a ribbed hem, an intarsia knit and embossed metal star appliquées. ",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aochanel2_1.png",
+        "img2": "../public/images/aochanel2_2.png",
+        "img3": "../public/images/aochanel2_3.png",
+        "img4": "../public/images/aochanel2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 21,
+    "productName": "2010's paneled boots",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Chanel",
+      "details": "Delve into the collection of the legendary Chanel to discover the supreme quality, style and beauty upheld by this timeless fashion house. Made from white, black and beige leather and nylon, these 2010 paneled boots fasten with a lace-up front. Featuring a round toe, a rear zip fastening and a ridged rubber sole. Please note that pre-owned items are not new and therefore might have minor imperfections.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaychanel1_1.png",
+        "img2": "../public/images/giaychanel1_2.png",
+        "img3": "../public/images/giaychanel1_3.png",
+        "img4": "../public/images/giaychanel1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 22,
+    "productName": "Nike x Gyakusou colour block sports jacket",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Nike",
+      "details": "Why wait until the last minute to get yourself beach body ready? Get back on track with this yellow colour block sports jacket from a collaborative effort between Gyakusou and Nike that gives you pockets at the front and back to store a skipping rope, energy bars and whatever else needed to reach your goal. Sweat it out now so you can lie down later. Featuring a printed logo to the front, a patch pocket at the chest, a print to the rear, a back zip pocket, a front zip fastening, an elasticated hem, panelled long sleeves and concealed zipped hoodie.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aonike1_1.png",
+        "img2": "../public/images/aonike1_2.png",
+        "img3": "../public/images/aonike1_3.png",
+        "img4": "../public/images/aonike1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 23,
+    "productName": "NRG ACG 2.5L packable windbreaker jacket",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Nike",
+      "details": "For those who didn't know, Nike has an ACG collection which stands for ‘All Conditions Gear.’ Expect innovative athletic apparel and sportswear for every climate. This white NRG ACG 2.5L packable windbreaker jacket from Nike features a drawstring toggle hood, long sleeves, elasticated cuffs, a front zip fastening, a purple pocket with zip fastening, a purple panel to the back and an elasticated hem.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/aonike2_1.png",
+        "img2": "../public/images/aonike2_2.png",
+        "img3": "../public/images/aonike2_3.png",
+        "img4": "../public/images/aonike2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 24,
+    "productName": "Nike x Off-white Zoom Fly Mercurial FK sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Nike",
+      "details": "nike AO2115800 TOTAL ORANGE/WHITE-VOLT rubber/Polyester",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaynike1_1.png",
+        "img2": "../public/images/giaynike1_2.png",
+        "img3": "../public/images/giaynike1_3.png",
+        "img4": "../public/images/giaynike1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 25,
+    "productName": "Air Max 97 sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Nike",
+      "details": "nike 884421 700 Leather/Polyester/Polyester/Rubber",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaynike2_1.png",
+        "img2": "../public/images/giaynike2_2.png",
+        "img3": "../public/images/giaynike2_3.png",
+        "img4": "../public/images/giaynike2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 26,
+    "productName": "Air Max 90 Mars Landing sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Nike",
+      "details": "NIKE CD0920600 MARS STONE/ MAGMA ORANGE Rubber/Polyester",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaynike3_1.png",
+        "img2": "../public/images/giaynike3_2.png",
+        "img3": "../public/images/giaynike3_3.png",
+        "img4": "../public/images/giaynike3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 27,
+    "productName": "Air Max 98 sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Nike",
+      "details": "Lining: Polyester 100% ; Outer: Thermoplastic Polyurethane (TPU) 100% ; Polyester 100% ; Sole: Rubber 100%",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaynike4_1.png",
+        "img2": "../public/images/giaynike4_2.png",
+        "img3": "../public/images/giaynike4_3.png",
+        "img4": "../public/images/giaynike4_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 28,
+    "productName": "Killshot Vulc sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Nike",
+      "details": "NIKE AQ4133100 SAIL/TEAM RED-GUM YELLOW rubber/Polyester/Polyester",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/giaynike5_1.png",
+        "img2": "../public/images/giaynike5_2.png",
+        "img3": "../public/images/giaynike5_3.png",
+        "img4": "../public/images/giaynike5_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 29,
+    "productName": "NRG ACG printed shell shorts",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Nike",
+      "details": "For those who didn't know, Nike has an ACG collection which stands for ‘All Conditions Gear.’ Expect innovative athletic apparel and sportswear for every climate. These multicoloured NRG ACG printed shell shorts from Nike feature an elasticated waistband with adjustable strap, side zipped pockets and a back pocket.",
+      "price": 200000,
+      "images":{
+        "img1": "../public/images/quannike1_1.png",
+        "img2": "../public/images/quannike1_2.png",
+        "img3": "../public/images/quannike1_3.png",
+        "img4": "../public/images/quannike1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 30,
+    "productName": "Lxcon low-top sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. These multicoloured leather Lxcon low-top sneakers from adidas feature a lace-up front fastening, mesh panels, a round toe, a branded tongue, a branded heel and a flat rubber sole. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/giayadidas1_1.png",
+        "img2": "../public/images/giayadidas1_2.png",
+        "img3": "../public/images/giayadidas1_3.png",
+        "img4": "../public/images/giayadidas1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 31,
+    "productName": "adidas x Pharrell Williams blue Human Body NMD sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Adidas",
+      "details": "adidasbypharrellwilliams EE7579 BLUE Polyamide/Polyamide/Rubber",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/giayadidas2_1.png",
+        "img2": "../public/images/giayadidas2_2.png",
+        "img3": "../public/images/giayadidas2_3.png",
+        "img4": "../public/images/giayadidas2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 32,
+    "productName": "Ozweego low-top sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. These green Ozweego low-top sneakers from adidas feature a lace-up front fastening, a branded tongue, a mesh upper with suede and TPU overlays, threaded tubing, Adiprene+ cushioning, an EVA midsole and a rubber outsole. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/giayadidas3_1.png",
+        "img2": "../public/images/giayadidas3_2.png",
+        "img3": "../public/images/giayadidas3_3.png",
+        "img4": "../public/images/giayadidas3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 33,
+    "productName": "Citrin Yeezy Boost 350 V2 sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Adidas",
+      "details": "Citrin Citrin Yeezy Boost 350 V2 sneakers from adidas featuring a round toe, a lace-up front fastening, a flat sole and a knitted style. Supplied by a premier sneaker marketplace dealing with unworn, already sold out, in demand rarities. Each product is rigorously inspected by experienced experts guaranteeing authenticity.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/giayadidas4_1.png",
+        "img2": "../public/images/giayadidas4_2.png",
+        "img3": "../public/images/giayadidas4_3.png",
+        "img4": "../public/images/giayadidas4_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 34,
+    "productName": "NMD_R1 J sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Adidas",
+      "details": "ADIDAS S80206 CBLACK/CWHITE rubber/Polyester/Polyester",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/giayadidas5_1.png",
+        "img2": "../public/images/giayadidas5_2.png",
+        "img3": "../public/images/giayadidas5_3.png",
+        "img4": "../public/images/giayadidas5_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 35,
+    "productName": "adidas tri-striped track pants",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. These orange tri-striped track pants from adidas feature an elasticated waistband, zipped side slit pockets, a rear pocket, a signature three stripe detail to each side, an embroidered Trefoil logo to one side, a straight leg and a regular length. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/quanadidas1_1.png",
+        "img2": "../public/images/quanadidas1_2.png",
+        "img3": "../public/images/quanadidas1_3.png",
+        "img4": "../public/images/quanadidas1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 36,
+    "productName": "adidas 3-stripe jogger shorts",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. These yellow cotton 3-stripe jogger shorts from adidas feature an elasticated waistband with a drawstring fastening, side pockets and white side stripes. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/quanadidas2_1.png",
+        "img2": "../public/images/quanadidas2_2.png",
+        "img3": "../public/images/quanadidas2_3.png",
+        "img4": "../public/images/quanadidas2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 37,
+    "productName": "Firebird side-stripe track pants",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Adidas",
+      "details": "ADIDAS ED6897 BLACK Polyester.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/quanadidas3_1.png",
+        "img2": "../public/images/quanadidas3_2.png",
+        "img3": "../public/images/quanadidas3_3.png",
+        "img4": "../public/images/quanadidas3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 38,
+    "productName": "adidas three-stripe track shorts",
+    "productInfo": {
+      "style": "quần",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. These grey cotton three-stripe track shorts from adidas feature an elasticated waistband, side zipped pockets, three signature white side stripes to each leg and an embroidered logo to the left leg. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/quanadidas4_1.png",
+        "img2": "../public/images/quanadidas4_2.png",
+        "img3": "../public/images/quanadidas4_3.png",
+        "img4": "../public/images/quanadidas4_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 39,
+    "productName": "Firebird zip-up track top",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. This black Firebird track top from adidas features a stand up collar, a front zip fastening, a Trefoil logo to the chest, long sleeves with signature white 3-Stripes, ribbed cuffs, front zipped pockets and a ribbed hem. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/aoadidas1_1.png",
+        "img2": "../public/images/aoadidas1_2.png",
+        "img3": "../public/images/aoadidas1_3.png",
+        "img4": "../public/images/aoadidas1_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 40,
+    "productName": "adidas X Undefeated hooded zip-up jacket",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Adidas",
+      "details": "Orange X Undefeated hooded zip-up jacket from adidas featuring a drawstring hood, long sleeves, elasticated cuffs, a concealed front zip fastening, a logo print to the chest, side zipped pockets, a drawstring hem, reflective details, a packable design and water-repellent fabric. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/aoadidas2_1.png",
+        "img2": "../public/images/aoadidas2_2.png",
+        "img3": "../public/images/aoadidas2_3.png",
+        "img4": "../public/images/aoadidas2_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 41,
+    "productName": "adidas embroidered Trefoil motif T-shirt",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. This black cotton embroidered Trefoil motif T-shirt from adidas features a contrast white ribbed crew neck, short sleeves, contrast white ribbed cuffs, the signature three stripe motif to each side, a contrast embroidered Trefoil motif to the front and a relaxed shape. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/aoadidas3_1.png",
+        "img2": "../public/images/aoadidas3_2.png",
+        "img3": "../public/images/aoadidas3_3.png",
+        "img4": "../public/images/aoadidas3_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 42,
+    "productName": "adidas 3-stripe T-shirt",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Adidas",
+      "details": "Nobody unites fashion, form and function quite like adidas. Specialising in sneakers and streetwear, the mega-brand has become a symbol of sports luxury. This white cotton 3-stripe T-shirt from adidas features a round neck, short sleeves and a black logo to the chest. POSITIVELY CONSCIOUS: We’ve joined forces with ethical agency Good On You to give you the power to choose positively. This piece is from a brand that scores well on their key criteria.",
+      "price": 99999,
+      "images":{
+        "img1": "../public/images/aoadidas4_1.png",
+        "img2": "../public/images/aoadidas4_2.png",
+        "img3": "../public/images/aoadidas4_3.png",
+        "img4": "../public/images/aoadidas4_4.png"
+      },
+      "sale": 10
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 43,
+    "productName": "Vans Comfycush Era sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Vans",
+      "details": "Originally designed for skateboarders, Vans embraces the carefree lifestyle of southern California…as should you. Celebrate the comfort and ease of the new generation. These orange and white canvas and leather Comfycush Era sneakers from Vans feature a round toe, a lace-up front fastening, a branded insole, a tropical motif pattern design and a flat rubber sole.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/giayvans1_1.png",
+        "img2": "../public/images/giayvans1_2.png",
+        "img3": "../public/images/giayvans1_3.png",
+        "img4": "../public/images/giayvans1_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 44,
+    "productName": "Vans OG Old Skool colour-block sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Vans",
+      "details": "Vans' 'OG Old Skool' sneakers are exactly what their name suggests . Designed to resemble the brand's vintage styles, they're punctuated with green, yellow and red panels against a pristine white background. You'll be too cool for school wearing these. Featuring a lace-up front and rubber soles.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/giayvans2_1.png",
+        "img2": "../public/images/giayvans2_2.png",
+        "img3": "../public/images/giayvans2_3.png",
+        "img4": "../public/images/giayvans2_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 45,
+    "productName": "Vans OG Skool 36 sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Vans",
+      "details": "Originally designed for skateboarders, Vans embraces the carefree lifestyle of southern California…as should you. Celebrate the comfort and ease of the new generation. Crafted from suede and canvas, these black OG Skool 36 sneakers from Vans feature a lace-up front fastening, a round toe, a contrasting white stripe to the side, contrast stitching and a flat white rubber sole.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/giayvans3_1.png",
+        "img2": "../public/images/giayvans3_2.png",
+        "img3": "../public/images/giayvans3_3.png",
+        "img4": "../public/images/giayvans3_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 46,
+    "productName": "Vans flat lace-up sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Vans",
+      "details": "Yellow flat lace-up sneakers from Vans featuring a round toe, a lace-up front fastening, a branded insole and a white rubber sole.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/giayvans4_1.png",
+        "img2": "../public/images/giayvans4_2.png",
+        "img3": "../public/images/giayvans4_3.png",
+        "img4": "../public/images/giayvans4_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 47,
+    "productName": "Vans x Fear Of God sneakers",
+    "productInfo": {
+      "style": "giày",
+      "brand": "Vans",
+      "details": "VANS VNA3J9FPZR Black/White Suede/rubber/Cotton/Canvas",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/giayvans5_1.png",
+        "img2": "../public/images/giayvans5_2.png",
+        "img3": "../public/images/giayvans5_3.png",
+        "img4": "../public/images/giayvans5_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 48,
+    "productName": "Vans X RS 'Off The Wall' slogan T-shirt",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Vans",
+      "details": "Originally designed for skateboarders, Vans embraces the carefree lifestyle of southern California…as should you. Celebrate the comfort and ease of the new generation. This white cotton Vans X RS 'Off The Wall' slogan T-shirt from Vans features a round neck, short sleeves and a contrast 'Off The Wall' graphic print to the chest.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/aovans1_1.png",
+        "img2": "../public/images/aovans1_2.png",
+        "img3": "../public/images/aovans1_3.png",
+        "img4": "../public/images/aovans1_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  },
+  {
+    "productID": 49,
+    "productName": "Vans hickory stripe shirt jacket",
+    "productInfo": {
+      "style": "áo",
+      "brand": "Vans",
+      "details": "Blue and white cotton blend hickory stripe shirt jacket from Vans featuring a classic collar, a button over front zip fastening, front pockets, long sleeves and a straight hem.",
+      "price": 696969,
+      "images":{
+        "img1": "../public/images/aovans2_1.png",
+        "img2": "../public/images/aovans2_2.png",
+        "img3": "../public/images/aovans2_3.png",
+        "img4": "../public/images/aovans2_4.png"
+      },
+      "sale": 20
+    },
+    "productDayCreate" : {
+      "day": 30,
+      "month": 9,
+      "year": 2019
+    },
+    "productQuantity": 10,
+    "productStatusSale": "true"
+  }
+
+]
